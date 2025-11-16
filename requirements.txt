@@ -1,0 +1,6 @@
+ollama
+gradio
+sentence-transformers
+faiss-cpu
+numpy
+pickle-mixin

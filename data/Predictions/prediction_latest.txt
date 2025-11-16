@@ -1,0 +1,13 @@
+=== HYBRID GOLD PRICE PREDICTION REPORT ===
+
+📅 Date: 2025-10-22
+📰 News: Gold and related stocks are falling for a second day. The metal is off 8% from high
+
+💬 Sentiment: positive (1.000)
+🧠 XGBoost Prediction: DOWN 📉 (Confidence: 0.51)
+💰 LSTM Predicted Price: 51.19
+📊 Hybrid Final Prediction: DOWN 📉
+
+📈 Explanation: Negative sentiment pulled prediction DOWN (-0.116)
+⏱️ Completed in 15.07s
+=======================================================

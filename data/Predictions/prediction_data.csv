@@ -1,0 +1,3 @@
+date,news,sentiment_label,sentiment_score,xgb_pred,xgb_conf,lstm_pred,combined_direction
+2025-10-20,"Groww launches commodities trading, urges caution amid metal price volatility",positive,0.9727967381477356,UP 📈,0.5224494934082031,3.2155137062072754,DOWN 📉
+2025-10-22,Gold and related stocks are falling for a second day. The metal is off 8% from high,positive,0.999822199344635,DOWN 📉,0.5091981887817383,3.2155137062072754,DOWN 📉
