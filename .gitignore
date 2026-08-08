@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# OS
+.DS_Store
+
+# Generated prediction output (rebuilt by models/predict.py)
+data/predictions/prediction_latest.txt
